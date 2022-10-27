@@ -1,0 +1,31 @@
+
+
+.btn-card-white {   
+    display: flex;
+    justify-content:  space-between;
+    align-items: center;}
+
+
+
+#btn-white {
+    display: flex;
+    justify-content:  space-between;
+    align-items: center;
+    background-color: black;
+}
+
+
+#btn-white a {
+    font-family: 'Montserrat', sans-serif;
+  display:  flex;
+  justify-content: space-between;
+  align-items: center;
+    text-decoration:  none;
+}
+#btn-white a:hover {
+
+    text-decoration: underline;
+    border-radius:  8px;
+    color: blue;
+    transition-delay:  1,5s;
+}

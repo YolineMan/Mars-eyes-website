@@ -1,0 +1,32 @@
+.navbar{
+	display: flex;
+	justify-content:  space-between;
+	align-items: center;
+	padding:  18px;
+	background-color: white;
+	border: black;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	margin-top: 130px;
+	background-image: <img src="image/logo_noir.jpg"></img>;
+}
+.navbar a {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	text-decoration:  none;
+	color: black;
+	font-size: 20px;
+	border-radius:  8px;
+	padding:  12px 32px;
+	transition: 1,5s;
+}
+
+.navbar a:hover {
+	font-size:  20px;
+	padding:  12px 32px;
+	text-decoration: underline;
+	border-radius:  8px;
+	color: black;
+	transition-delay:  1,5s;
+}

@@ -1,0 +1,13 @@
+.card-image {
+    display: flex;
+    justify-content:  space-between;
+    align-items: center;
+}
+
+
+.card-image img{
+ width:30%;
+ text-align:center;
+ justify-content: space-between;
+margin : 0, auto;}
+

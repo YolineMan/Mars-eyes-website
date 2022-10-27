@@ -1,0 +1,16 @@
+.transition {
+	background-image: url(../../image/marseyes.jpg);
+  background-position: center;;
+	width: 92,5%;
+	padding: 45px;
+	height: 350px;
+
+}
+
+.transition p{
+	padding-top: 50px;
+	font-size: 50px;
+  font-family: 'Poppins', sans sérif;
+  color: white;
+  text-align: center;
+}

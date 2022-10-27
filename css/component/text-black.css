@@ -1,0 +1,13 @@
+
+#text-black{
+  background-color: white;  
+  width: 100%;
+  display:  flex;
+}
+
+#text-black p {
+  font-family: 'Poppins', sans sérif;
+  text-align: center;
+  font-size: 46px;
+  color: black;
+}
